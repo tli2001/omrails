@@ -1,5 +1,5 @@
-/*$baseFontFamily: Oxygen;
-@import url(http://fonts.googleapis.com/css?family=Oxygen);*/
+$baseFontFamily: Josefin Sans;
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:600);
 
 $btnPrimaryBackground: green;
 $navbarBackgroundHighlight: white;
@@ -32,7 +32,7 @@ body {
 .box {
 	margin: 5px;
 	padding: 5px;
-	font-size: 11px;
+	font-size: 12px;
 	line-height: 1.4em;
 	float: left;
 	-webkit-border-radius: 5px;
